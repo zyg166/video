@@ -21,7 +21,7 @@
 	';  include 'header.php';?>
 	<?='<div id="homeso">
 	<form method="post" id="soform" style="text-align: center;float: none" action="./seacher.php">
-	'; echo $aik['logo_ss'];?><?='<br><br>
+	'; echo $aik['logo_ss'];?><?='
 	<input tabindex="2" class="homesoin" id="sos" name="wd" type="text" placeholder="电影、电视剧、视频" value="">
 	<button id="button" tabindex="3" class="homesobtn" type="submit"><i class="fa">搜索</i></button>
 	</form>
@@ -48,7 +48,7 @@
 	echo $html; 
 	?>  -->
 
-	<div class="single-strong">最新热门电影推荐<span class="chak"><a href="./movie.php?m=<?php echo $do11;?>">查看更多</a></span></div>
+	<div class="single-strong">最新热门电影推荐<span class="chak"><a href="./movie.php?m=<?php echo $do11;?>">查看更多>></a></span></div>
 	<div class="b-listtab-main">
 	<div class="s-tab-main">
 	<ul class="list g-clear">
@@ -57,7 +57,7 @@
 	</div>
 	</div>
 
-	<div class="single-strong">最新热门电视剧推荐<span class="chak"><a href="./movie.php?m=<?php echo $do21;?>">查看更多</a></span></div>
+	<div class="single-strong">最新热门电视剧推荐<span class="chak"><a href="./movie.php?m=<?php echo $do21;?>">查看更多>></a></span></div>
 	<div class="b-listtab-main">
 	<div class="s-tab-main">
 	<ul class="list g-clear">
