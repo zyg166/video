@@ -18,6 +18,7 @@ $szz='#js-playicon" title="(.*?)"\s*data#';$szz1='#a href="(.*?)" class="g-playi
 <title>追热剧-最新电视剧-好看电视剧-最新电视剧排行-'; echo $aik['title'];?><?="</title>
 <link rel='stylesheet' id='main-css'  href='css/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id='main-css'  href='css/tv.css' type='text/css' media='all' />
+<link rel=\'stylesheet\' id=\'main-css\'  href=\'css/media.css\' type=\'text/css\' media=\'all\' />
 <script type='text/javascript' src='http://apps.bdimg.com/libs/jquery/2.0.0/jquery.min.js?ver=0.5'></script>
 <meta name=\"keywords\" content=\"追热剧-最新电视剧-好看电视剧-最新电视剧排行\">
 <meta name=\"description\" content=\""; echo $aik['title'];?><?='-追热剧-最新电视剧-好看电视剧-最新电视剧排行">

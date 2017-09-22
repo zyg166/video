@@ -13,6 +13,7 @@ include ('./inc/aik.config.php');
 <meta http-equiv="cache-control" content="no-siteapp">
 <link rel='stylesheet' id='main-css'  href='css/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id='main-css'  href='css/play.css' type='text/css' media='all' />
+<link rel=\'stylesheet\' id=\'main-css\'  href=\'css/media.css\' type=\'text/css\' media=\'all\' />
 <script type='text/javascript' src='http://apps.bdimg.com/libs/jquery/2.0.0/jquery.min.js?ver=0.5'></script>
 
 <meta name="keywords" content="枪版电影播放页-<?php echo $aik['sitename'];?>">
@@ -56,7 +57,7 @@ include ('./inc/aik.config.php');
 <iframe name="ajax" src="http://boba.52kuyun.com/share/IyZFlZ7RTJytICjl" marginwidth="0" marginheight="0" border="0" scrolling="no" frameborder="0" topmargin="0" width="100%" height="100%"></iframe>
 </div>
 <div style="clear: both;"></div>
-<p class="jianjie"><h3 class="single-strong">简介</h3><p class="item-desc js-close-wrap" >在英雄内战机场大战落幕后，彼得�帕克【汤姆.赫兰德饰】回归普通的高中生生涯。在恩师托尼�斯塔克【小罗伯特.唐尼饰】的协助下，他试图于纽约市皇后区的一名普通高中生和打击犯罪的超级英雄蜘蛛侠间保持平衡，托尼在身为导师的身份之下，希望彼得负责街头的灰色地带就好。但好景不常，一 批银行歹徒改造了遗留在纽约各地的外星武器，也使他面临了全新的威胁——反派秃鹫的崛起。托尼做为引导他踏上英雄之路的关键人物，确保他在未来有资格成为复仇者联盟的一分子。</p>
+<p class="jianjie"><h3 class="single-strong">简介</h3><p class="item-desc js-close-wrap" >在英雄内战机场大战落幕后，彼得�帕克【汤姆.赫兰德饰】回归普通的高中生生涯。在恩师托尼�斯塔克【小罗伯特.唐尼饰】的协助下，他试图于纽约市皇后区的一名普通高中生和打击犯罪的超级英雄蜘蛛侠间保持平衡，托尼在身为导师的身份之下，希望彼得负责街头的灰色地带就好。但好景不常，一 批银行歹徒改造了遗留在纽约各地的外星武器，也使他面临了全新的威胁——反派秃鹫的崛起。托尼做为引导他踏上英雄之路的关键人物，确保他在未来有资格成为复仇者联盟的一分子。</p>
 <div style="clear: both;"></div> 
 </div>
 </div>

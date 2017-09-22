@@ -13,6 +13,7 @@ include('./inc/aik.config.php');include('./inc/fenye.php');?>
 <title>搞笑列表-'; echo $aik['title'];?><?="</title>
 <link rel='stylesheet' id='main-css'  href='css/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id='main-css'  href='css/gaoxiao.css' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css'  href='css/media.css' type='text/css' media='all' />
 <script type='text/javascript' src='http://apps.bdimg.com/libs/jquery/2.0.0/jquery.min.js?ver=0.5'></script>
 <meta name=\"keywords\" content=\"搞笑排行\">
 <meta name=\"description\" content=\""; echo $aik['title'];?><?='-搞笑排行">
@@ -21,7 +22,7 @@ include('./inc/aik.config.php');include('./inc/fenye.php');?>
 
 <body class="page-template page-template-pages page-template-posts-film page-template-pagesposts-film-php page page-id-9">
 ';  include 'header.php';?>
-<?='<section class="container"><div class="fenlei">
+<?='<section id="movelist"><div class="fenlei">
 <div class="b-listfilter" style="padding: 0px;">
 <style>
 #noall{

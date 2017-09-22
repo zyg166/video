@@ -14,6 +14,7 @@ include('./inc/aik.config.php');?>
 <meta http-equiv="cache-control" content="no-siteapp">
 <link rel=\'stylesheet\' id=\'main-css\'  href=\'css/style.css\' type=\'text/css\' media=\'all\' />
 <link rel=\'stylesheet\' id=\'main-css\'  href=\'css/play.css\' type=\'text/css\' media=\'all\' />
+<link rel=\'stylesheet\' id=\'main-css\'  href=\'css/media.css\' type=\'text/css\' media=\'all\' />
 <script type=\'text/javascript\' src=\'http://apps.bdimg.com/libs/jquery/2.0.0/jquery.min.js?ver=0.5\'></script>
 
 <meta name="keywords" content="'; echo $timu;?><?='-播放页">

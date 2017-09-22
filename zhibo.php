@@ -13,6 +13,7 @@ include('./inc/aik.config.php');?>
 <title>'; echo $aik['title'];?><?="-免VIP抢先观看最新好看的电影和电视剧</title>
 <link rel='stylesheet' id='main-css'  href='css/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id='main-css'  href='css/index.css' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css'  href='css/media.css' type='text/css' media='all' />
 <script type='text/javascript' src='http://apps.bdimg.com/libs/jquery/2.0.0/jquery.min.js?ver=0.5'></script>
 <meta name=\"keywords\" content=\""; echo $aik['title'];?><?=',电视直播网站,零八影院快播,高清云影视,云点播,免费看视频,湖南卫视直播,80电影网,最新电影天堂免费在线观看">
 <meta name="description" content="'; echo $aik['title'];?><?=',热剧快播,最好看的剧情片尽在'; echo $aik['title'];?><?=',高清云影视免费为大家提供最新最全的免费电影，电视剧，综艺，动漫无广告在线云点播，以及电视直播">

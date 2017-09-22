@@ -15,6 +15,7 @@ include('./inc/aik.config.php');include('./inc/fenye.php');?>
 <title>综艺列表-'; echo $aik['title'];?><?="</title>
 <link rel='stylesheet' id='main-css'  href='css/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id='main-css'  href='css/movie.css' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css'  href='css/media.css' type='text/css' media='all' />
 <script type='text/javascript' src='http://apps.bdimg.com/libs/jquery/2.0.0/jquery.min.js?ver=0.5'></script>
 <meta name=\"keywords\" content=\"综艺排行\">
 <meta name=\"description\" content=\""; echo $aik['title'];?><?='-综艺排行">

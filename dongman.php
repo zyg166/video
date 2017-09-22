@@ -13,6 +13,7 @@ include('./inc/aik.config.php');include('./inc/fenye.php');?>
 <title>动漫列表-'; echo $aik['title'];?><?="</title>
 <link rel='stylesheet' id='main-css'  href='css/style.css' type='text/css' media='all' />
 <link rel='stylesheet' id='main-css'  href='css/dongman.css' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css'  href='css/media.css' type='text/css' media='all' />
 <script type='text/javascript' src='http://apps.bdimg.com/libs/jquery/2.0.0/jquery.min.js?ver=0.5'></script>
 <meta name=\"keywords\" content=\"动漫排行\">
 <meta name=\"description\" content=\""; echo $aik['title'];?><?='-动漫排行">
@@ -20,7 +21,7 @@ include('./inc/aik.config.php');include('./inc/fenye.php');?>
 </head>
 <body class="page-template page-template-pages page-template-posts-tvshow page-template-pagesposts-tvshow-php page page-id-10">
 ';  include 'header.php';?>
-<?='<section class="container"><div class="fenlei">
+<?='<section id="movelist"><div class="fenlei">
 <div class="b-listfilter" style="padding: 0px;">
 <style>
 #noall{
